@@ -1,8 +1,8 @@
----
+---eldiarmrzahan 
 manufacturer: 
     - oppo
 
----
+-eldiarmrzahan--
 
 ## Oppo F1S
 
